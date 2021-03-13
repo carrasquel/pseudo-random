@@ -1,6 +1,6 @@
 from .random import _Random
 
-_random = _Random
+_random = _Random()
 
 seed = _random.seed
 random = _random.random
