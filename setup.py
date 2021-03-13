@@ -2,7 +2,7 @@
 
 from setuptools import setup
 
-setup(name='PseudoRandom',
+setup(name='CoolRandom',
     version='0.1',
     description='A Python package for pseudo random numbers generation',
     url='https://github.com/carrasquel/pseudo-random',
